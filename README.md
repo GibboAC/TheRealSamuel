@@ -1,5 +1,6 @@
-### Hi there 👋
+### I mean uhhhhhhhhhh uhhhhhh uhhhhh i'm just a person?
 
+<img src="https://github-readme-stats.vercel.app/api?username=TheRealSamuel&show_icons=true&theme=radical&count_private=true"/>
 <!--
 **TheRealSamuel/TheRealSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
